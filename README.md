@@ -38,10 +38,9 @@
 ССЫЛКИ
 
 http://www.psychologies.ru/   
-http://psychojournal.ru/  
-https://psy-practice.com/   
+http://psychojournal.ru/   
 http://psychologytoday.ru/ 
-
-
-  
-  
+https://postnauka.ru/themes/psihologiya
+https://snob.ru/theme/183/
+https://ideanomics.ru/articles/category/progress
+https://shape.ru/radosti-zhizni
