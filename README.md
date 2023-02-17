@@ -1,5 +1,6 @@
 # Baymax
 Проект для ДПО 2022-2023
+Ссылка на презентацию https://docs.google.com/presentation/d/1kjEMav1zP8LQG9C5ojU-ey2SSiaz8kPUPhKUm3HEAFI/edit?usp=sharing
 
 УЧАСТНИК ПРОЕКТА:
 
