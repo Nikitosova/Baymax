@@ -54,3 +54,5 @@ https://leahelps.ru/
 https://teyabot.com/
 
 https://vc.ru/u/1063545-lev-levickiy/352467-5-telegram-botov-dlya-podderzhki-mentalnogo-zdorovya
+
+https://t.me/baymax_test_task_bot
